@@ -2,47 +2,40 @@
 
 <h1 align="center">Hello There! I'm <a href='https://nhonnq-201014.web.app/'>Nhon Nguyen</a> </h1>
 
-<p align='center'>
-<a href="https://www.linkedin.com/in/nhon-nguyen-5b013a157" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="nhonnq" height="30" width="40" /></a>
-<a href="https://github.com/nhonnq" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nhonnq&show_icons=true" alt="nhonnq" height="30" width="40" /></a>
-<br><br>
+## I'm a mobile app developer focused on Android using Jetpack Compose. I also build iOS and Web apps.
 
----
-
+- 👨‍💻 Currently working with **Kotlin Multiplatform**, **Jetpack Compose**, and **Android Development**.
+- 📚 Actively exploring and deepening my knowledge in **Kotlin Multiplatform**.
+- 🎯 Future Goals: Build robust cross-platform apps and contribute more to open-source projects.
 <br>
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a mobile app developer focused on Android using Jetpack Compose. I also build iOS and web apps.
-
-- 👨‍💻 I’m currently working on Kotlin Multiplatform, Compose Multiplatform and Android Development.
-- 📚 I’m currently exploring Kotlin Multiplatform and harnessing the power of it at my org😅
-- 💪🏼 Future Goals: Peak out at Kotlin Multiplatform and Android development.
-<br>
+### 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nhon-nguyen-5b013a157/)
 
 ---
 
 ## 🛠️ Tech Stack
-- Android (Jetpack Compose, Kotlin)
-- iOS (Swift)
-- Web (React, TypeScript)
+- 💻 Android (Kotlin, Jetpack Compose, MVVM, Clean Architecture)
+- 🍎 iOS (Swift, SwiftUI)
+- 🌐 Web (React, TypeScript)
 - Tools: Git, Docker, Firebase
 
 ---
 
 ### Languages 🛠 
-[![My Programming Languages](https://skillicons.dev/icons?i=kotlin,java,ts,python,cpp,html,css)](https://skillicons.dev)
+[![My Programming Languages](https://skillicons.dev/icons?i=kotlin,java,swift,js,ts,cpp,html,css)](https://skillicons.dev)
 
 ### Development Frameworks and Libraries
-[![My Development](https://skillicons.dev/icons?i=androidstudio,gradle,ktor,nextjs,react,redux,mui,express,nodejs,tailwind,adonis)](https://skillicons.dev)
+[![My Development](https://skillicons.dev/icons?i=androidstudio,gradle,ktor,nextjs,react,redux,mui,express,nodejs,tailwind)](https://skillicons.dev)
 
 ### Databases and Cloud Platforms 🛠 
-[![My Databases and Cloud](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres,redis,graphql,gcp,firebase,vercel,planetscale)](https://skillicons.dev)
+[![My Databases and Cloud](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres,redis,graphql,firebase,vercel)](https://skillicons.dev)
 
 ### IDEs and Tools
 [![My IDEs and Tools](https://skillicons.dev/icons?i=androidstudio,idea,vscode,git,github,figma,xd,postman)](https://skillicons.dev)
 
 ### Socials
-[![My Socials](https://skillicons.dev/icons?i=linkedin,twitter,instagram,discord,devto)](https://skillicons.dev)
+[![My Socials](https://skillicons.dev/icons?i=linkedin,discord,devto)](https://skillicons.dev)
 ---
 
 <br/>
@@ -58,21 +51,7 @@
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=nhonnq&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </a><br><br>
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 30 April 2023 - To: 05 May 2025
-
-Total Time: 2,137 hrs 34 mins
-
-Kotlin                 1,651 hrs 1 min ███████████████████▒░░░░░   77.24 %
-TypeScript             335 hrs 37 mins ████░░░░░░░░░░░░░░░░░░░░░   15.70 %
-TOML                   32 hrs 22 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-XML                    23 hrs 23 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-Text                   13 hrs 28 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-```
-
-<!--END_SECTION:waka-->
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nhonnq/nhonnq/blob/output/github-contribution-grid-snake-dark.svg" />
